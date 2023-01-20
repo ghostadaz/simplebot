@@ -4,6 +4,7 @@
   "description": "A simple Telegram chatbot using the Telegraf library",
   "main": "index.js",
   "scripts": {
+    "build": "npm run start",
     "start": "node index.js"
   },
   "dependencies": {

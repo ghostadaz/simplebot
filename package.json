@@ -3,7 +3,7 @@
   "name": "my-telegram-bot",
   "version": "1.0.0",
   "description": "A simple Telegram bot using Telegram API",
-  "main": "index.js",
+  "main": "airdrop.js",
   "scripts": {
     "build": "npm run start",
     "start": "node index.js"

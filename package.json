@@ -7,6 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "telegraf": "^5.2.0"
+    "telegraf": "^4.11.2"
   }
 }

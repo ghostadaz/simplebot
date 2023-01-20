@@ -11,7 +11,7 @@ def start(update, context):
         update.message.reply_text("Salut!")
 
 def main():
-    updater = Updater("YOUR_TOKEN", use_context=True)
+    updater = Updater("5830036654:AAFPDip9UuBDEq5n-C4VGpWcBEO5dnFfmfs", use_context=True)
     dp = updater.dispatcher
     dp.add_handler(CommandHandler("start", start))
     updater.start_polling()

@@ -1,0 +1,12 @@
+{
+  "name": "my-telegram-chatbot",
+  "version": "1.0.0",
+  "description": "A simple Telegram chatbot using the Telegraf library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^5.2.0"
+  }
+}

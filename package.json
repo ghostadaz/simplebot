@@ -3,5 +3,4 @@
     "build": "python bot_salutation.py",
     "start": "node bot_salutation.py"
   }
-   "license": "MIT"
 }
